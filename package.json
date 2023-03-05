@@ -1,0 +1,17 @@
+{
+  "name": "docx-template-injector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docx-parser": "^0.2.1",
+    "easy-template-x": "^3.0.4",
+    "prompt": "^1.3.0"
+  }
+}
